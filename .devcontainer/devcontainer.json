@@ -1,0 +1,35 @@
+{
+  "name": "fin-learn Vue Dev",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:22",
+  "features": {
+    "ghcr.io/devcontainers/features/git:1": {}
+  },
+  "forwardPorts": [5173],
+  "portsAttributes": {
+    "5173": {
+      "label": "Vite Dev Server",
+      "onAutoForward": "notify"
+    }
+  },
+  "postCreateCommand": "npm install -g @vue/cli netlify-cli && [ -f package.json ] && npm install || true",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "Vue.volar",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "antfu.unocss",
+        "netlify.netlify-vscode"
+      ],
+      "settings": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "[vue]": {
+          "editor.defaultFormatter": "Vue.volar"
+        },
+        "typescript.tsdk": "node_modules/typescript/lib"
+      }
+    }
+  },
+  "remoteUser": "node"
+}
