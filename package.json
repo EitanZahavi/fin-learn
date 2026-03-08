@@ -1,0 +1,18 @@
+{
+  "name": "fin-learn",
+  "version": "1.0.0",
+  "description": "Learn Finnish - Spelling practice app",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "node scripts/convert-words.js && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.0",
+    "vite": "^5.0.0"
+  }
+}

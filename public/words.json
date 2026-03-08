@@ -1,0 +1,2447 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2026-03-08",
+  "categories": [
+    {
+      "name": "Question Words and Refernece",
+      "dateIntroduced": "2026-03-08",
+      "words": [
+        {
+          "finnish": "Onko",
+          "english": [
+            "is"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Missä",
+          "english": [
+            "Where"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Mitä",
+          "english": [
+            "what",
+            "which"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Kuka",
+          "english": [
+            "Who"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Kenellä",
+          "english": [
+            "who"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Ketkä",
+          "english": [
+            "who are the people"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Joka",
+          "english": [
+            "Whom"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Miksi",
+          "english": [
+            "Why"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Mika",
+          "english": [
+            "What"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Millainen",
+          "english": [
+            "What type"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Kuinka moni",
+          "english": [
+            "how many"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Montako",
+          "english": [
+            "how many"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Jolla",
+          "english": [
+            "which has",
+            "who has"
+          ],
+          "dateIntroduced": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "name": "Geography and Countries",
+      "dateIntroduced": "2026-03-08",
+      "words": [
+        {
+          "finnish": "Maa",
+          "english": [
+            "Country"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Norja",
+          "english": [
+            "Norway"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Viro",
+          "english": [
+            "Estonia"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Ruosti",
+          "english": [
+            "Sweden"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Islanti",
+          "english": [
+            "Iceland"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Venäjä",
+          "english": [
+            "Russia"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Tanska",
+          "english": [
+            "Denmark"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Suomi",
+          "english": [
+            "Finland"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Espanja",
+          "english": [
+            "Spain"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Saksa",
+          "english": [
+            "Germani"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Ranska",
+          "english": [
+            "France"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Saamelinen",
+          "english": [
+            "Lapland citizen"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Viikinki",
+          "english": [
+            "a Viking"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Pohjoinen",
+          "english": [
+            "Northern"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Kieli",
+          "english": [
+            "language"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Murre",
+          "english": [
+            "dialect"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Aksentti",
+          "english": [
+            "accent"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Sana",
+          "english": [
+            "word"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Lause",
+          "english": [
+            "sentence"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Qysymys",
+          "english": [
+            "Question"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Vastaus",
+          "english": [
+            "Answer"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Sujuva",
+          "english": [
+            "fluent"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Espenja",
+          "english": [
+            "Spanish"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Englanti",
+          "english": [
+            "English"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Japani",
+          "english": [
+            "Japanize"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Ranska",
+          "english": [
+            "French"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Saksa",
+          "english": [
+            "German"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Unkari",
+          "english": [
+            "Hungarian"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Kiina",
+          "english": [
+            "Chinese"
+          ],
+          "dateIntroduced": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "name": "Kitchen related",
+      "dateIntroduced": "2026-03-08",
+      "words": [
+        {
+          "finnish": "Veitsi",
+          "english": [
+            "Knife"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Haarukka",
+          "english": [
+            "Fork"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Lasi",
+          "english": [
+            "glass"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Lautanen",
+          "english": [
+            "plate"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Musta",
+          "english": [
+            "black"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Valkoinen",
+          "english": [
+            "white"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Punainen",
+          "english": [
+            "red"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Keltainen",
+          "english": [
+            "yellow"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Sininen",
+          "english": [
+            "blue"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Sinistä",
+          "english": [
+            "blue partitive"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Vihreä",
+          "english": [
+            "green"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Kartta",
+          "english": [
+            "map"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Tori",
+          "english": [
+            "piazza"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Ooperatalo",
+          "english": [
+            "opera house"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Silta",
+          "english": [
+            "bridge"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Kahvila",
+          "english": [
+            "cafe’"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Puisto",
+          "english": [
+            "park"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Linna",
+          "english": [
+            "fortress"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Kirkko",
+          "english": [
+            "Church"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Stadion",
+          "english": [
+            "stadium"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Museo",
+          "english": [
+            "museum"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Rakennus",
+          "english": [
+            "building"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Monomenti",
+          "english": [
+            "monument"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Teatteri",
+          "english": [
+            "theater"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Kotona",
+          "english": [
+            "at home"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Järvi",
+          "english": [
+            "lake"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Kivi",
+          "english": [
+            "rock"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Talo",
+          "english": [
+            "house"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Koti",
+          "english": [
+            "home"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Asunto",
+          "english": [
+            "apartment"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Huone",
+          "english": [
+            "room"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Piha",
+          "english": [
+            "yard"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Veranta",
+          "english": [
+            "veranda"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Kellari",
+          "english": [
+            "cellar"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Sänky",
+          "english": [
+            "bed"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Sohva",
+          "english": [
+            "sofa"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Pöytä",
+          "english": [
+            "table"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Kaupunki",
+          "english": [
+            "city"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "lattia",
+          "english": [
+            "floor"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Tuoli",
+          "english": [
+            "chair"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Kattoa",
+          "english": [
+            "roof"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Lattia",
+          "english": [
+            "floor"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Lamppu",
+          "english": [
+            "lamp"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Taulu",
+          "english": [
+            "picture"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Kello",
+          "english": [
+            "clock"
+          ],
+          "dateIntroduced": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "name": "Food and eating",
+      "dateIntroduced": "2026-03-08",
+      "words": [
+        {
+          "finnish": "Nälkä",
+          "english": [
+            "hunger"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Jano",
+          "english": [
+            "thirst"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Ruoka",
+          "english": [
+            "food"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Kaana",
+          "english": [
+            "chicken"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Liha",
+          "english": [
+            "meet"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Pihvi",
+          "english": [
+            "steak"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Makkara",
+          "english": [
+            "sausage"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Kala",
+          "english": [
+            "fish"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Peruna",
+          "english": [
+            "potato"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Tomaatti",
+          "english": [
+            "tomato"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Pippuri",
+          "english": [
+            "pepper"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Omena",
+          "english": [
+            "apple"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Sipuli",
+          "english": [
+            "onion"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Sitrunna",
+          "english": [
+            "citron"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Makea",
+          "english": [
+            "sweet"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Suola",
+          "english": [
+            "salt"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Mauste",
+          "english": [
+            "spice"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Kastike",
+          "english": [
+            "dressing"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Salaati",
+          "english": [
+            "salad"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Sinappi",
+          "english": [
+            "mastered"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Ketsuppi",
+          "english": [
+            "ketchup"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Voi",
+          "english": [
+            "butter"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Leipää",
+          "english": [
+            "bread"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Kerma",
+          "english": [
+            "cream"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Pirtelöä",
+          "english": [
+            "milkshake"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "jäätelöä",
+          "english": [
+            "ice cream"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "sokeri",
+          "english": [
+            "sugar"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "tee",
+          "english": [
+            "tea"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Mämmi",
+          "english": [
+            "sweet rye pudding"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Vesi",
+          "english": [
+            "water"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Kahvi",
+          "english": [
+            "coffee"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Maito",
+          "english": [
+            "milk"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Mehua",
+          "english": [
+            "juice"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Limonadi",
+          "english": [
+            "pop soda"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Glögiä",
+          "english": [
+            "drink"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Nam",
+          "english": [
+            "yammi"
+          ],
+          "dateIntroduced": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "name": "Other Words",
+      "dateIntroduced": "2026-03-08",
+      "words": [
+        {
+          "finnish": "Opettaja",
+          "english": [
+            "teacher"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "opettajat",
+          "english": [
+            "teachers"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Laulaja",
+          "english": [
+            "a singer"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Tanssijaa",
+          "english": [
+            "a dancer"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Kännykkä",
+          "english": [
+            "cellular phone"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Auto",
+          "english": [
+            "car"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Insinööri",
+          "english": [
+            "Engineer"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Hymy",
+          "english": [
+            "smile"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Sulhanen",
+          "english": [
+            "groom"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Poikaystävä",
+          "english": [
+            "boy friend"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Tyttöystävä",
+          "english": [
+            "girl friend"
+          ],
+          "dateIntroduced": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "name": "Verbs",
+      "dateIntroduced": "2026-03-08",
+      "words": [
+        {
+          "finnish": "Itkeä",
+          "english": [
+            "cry (itken)"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Istua",
+          "english": [
+            "sit (istun)"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Seisoä",
+          "english": [
+            "stand (seison)"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Laulla",
+          "english": [
+            "sing (laullan)"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Nauraa",
+          "english": [
+            "laugh (nauran)"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Puhuja",
+          "english": [
+            "speak (puhun)"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Maalata",
+          "english": [
+            "paint"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Siivoa",
+          "english": [
+            "clean"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Tajuta",
+          "english": [
+            "realize"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Tiska",
+          "english": [
+            "wash dishes"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Korja",
+          "english": [
+            "fix"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Hiki",
+          "english": [
+            "sweating"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Lukea",
+          "english": [
+            "to read"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Kirjoittaa",
+          "english": [
+            "to write"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Ossa",
+          "english": [
+            "can"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Halua",
+          "english": [
+            "want"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Ratsastaa",
+          "english": [
+            "to ride a horse"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Kasvan",
+          "english": [
+            "grow"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Juoda",
+          "english": [
+            "to drink. Juotan",
+            "juotat",
+            "juotaa"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Syödä",
+          "english": [
+            "to eat",
+            "syödän",
+            "syödät",
+            "syödää …"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Etsit",
+          "english": [
+            "search"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Peset",
+          "english": [
+            "wash"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Eksyä",
+          "english": [
+            "to get lost"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Asu",
+          "english": [
+            "live"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Kyädä",
+          "english": [
+            "visit"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Halla",
+          "english": [
+            "hug"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "ikävä",
+          "english": [
+            "yearning (really want)"
+          ],
+          "dateIntroduced": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "name": "Adverbs: Location & Time",
+      "dateIntroduced": "2026-03-08",
+      "words": [
+        {
+          "finnish": "Tässä",
+          "english": [
+            "right here"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Tuossä",
+          "english": [
+            "right there"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Täällä",
+          "english": [
+            "there"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Tuollä",
+          "english": [
+            "there"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Keskellä",
+          "english": [
+            "in the middle of"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Kaukana",
+          "english": [
+            "far"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Lähellä",
+          "english": [
+            "near"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Taas",
+          "english": [
+            "again"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Jo",
+          "english": [
+            "already"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Aina",
+          "english": [
+            "always"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "koskaan",
+          "english": [
+            "never"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Enää",
+          "english": [
+            "anymore",
+            "no longer"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Nykyään",
+          "english": [
+            "nowadays"
+          ],
+          "dateIntroduced": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "name": "Conjunctions & Responses",
+      "dateIntroduced": "2026-03-08",
+      "words": [
+        {
+          "finnish": "Ja",
+          "english": [
+            "and"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "vai",
+          "english": [
+            "or"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "mutta",
+          "english": [
+            "but"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Tai",
+          "english": [
+            "either X or Y"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Vaikka",
+          "english": [
+            "even though"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Kosk",
+          "english": [
+            "because"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Vaan",
+          "english": [
+            "but",
+            "do not"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Joo, kyllä",
+          "english": [
+            "yes"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "ei",
+          "english": [
+            "no"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Ehkä",
+          "english": [
+            "maybe"
+          ],
+          "dateIntroduced": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "name": "Adverbs: Quantity & Intensity",
+      "dateIntroduced": "2026-03-08",
+      "words": [
+        {
+          "finnish": "Sama",
+          "english": [
+            "same"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "eri",
+          "english": [
+            "different"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Vain",
+          "english": [
+            "only"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Liin",
+          "english": [
+            "too"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Niin",
+          "english": [
+            "such"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Myös",
+          "english": [
+            "also"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Ylös",
+          "english": [
+            "up"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Moni",
+          "english": [
+            "many"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Liikaa",
+          "english": [
+            "too much"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Enemmän",
+          "english": [
+            "more"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Loppu",
+          "english": [
+            "all gone",
+            "out of"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Viela",
+          "english": [
+            "only",
+            "still"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Vähän",
+          "english": [
+            "a bit of"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Ainakin",
+          "english": [
+            "at least"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "kaikki",
+          "english": [
+            "all",
+            "everybody",
+            "everything"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Pois",
+          "english": [
+            "away",
+            "off"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Tarpeeski",
+          "english": [
+            "enough"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Nopeasti",
+          "english": [
+            "quickly",
+            "fast"
+          ],
+          "dateIntroduced": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "name": "Physical Qualities & States",
+      "dateIntroduced": "2026-03-08",
+      "words": [
+        {
+          "finnish": "Helppo",
+          "english": [
+            "easy"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "vaikea",
+          "english": [
+            "hard"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Halpa",
+          "english": [
+            "cheap"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Sotkuinen",
+          "english": [
+            "messy"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Siisti",
+          "english": [
+            "tidy"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Riiki",
+          "english": [
+            "broken"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Kylmä",
+          "english": [
+            "cold"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Kuuma",
+          "english": [
+            "hot"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "lämmin",
+          "english": [
+            "warm"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Pyöreä",
+          "english": [
+            "Round"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Valmis",
+          "english": [
+            "ready"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Suuri",
+          "english": [
+            "wide"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "pieni",
+          "english": [
+            "small"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "iso",
+          "english": [
+            "large"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Uusi",
+          "english": [
+            "new"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "vanha",
+          "english": [
+            "old"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Pitkä",
+          "english": [
+            "long or tall"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Pehmeää",
+          "english": [
+            "soft"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Myrkyllinen",
+          "english": [
+            "poisonous"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Oma",
+          "english": [
+            "own"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Kiini",
+          "english": [
+            "closed"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "auki",
+          "english": [
+            "open"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Väärä",
+          "english": [
+            "wrong"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "oikea",
+          "english": [
+            "right"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "oikean",
+          "english": [
+            "right way"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Yhdessä",
+          "english": [
+            "together"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Likainen",
+          "english": [
+            "dirty"
+          ],
+          "dateIntroduced": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "name": "Personality & Character",
+      "dateIntroduced": "2026-03-08",
+      "words": [
+        {
+          "finnish": "Älykäs",
+          "english": [
+            "Intelligent"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Lahjakas",
+          "english": [
+            "talented"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Ujo",
+          "english": [
+            "shy"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Rehellinen",
+          "english": [
+            "honest"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Kaunis",
+          "english": [
+            "beautiful"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Comea",
+          "english": [
+            "handsome"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Tuhma",
+          "english": [
+            "naughty"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "kiltti",
+          "english": [
+            "kind"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "söpö",
+          "english": [
+            "adorable"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Pörröistä",
+          "english": [
+            "fluffy"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Tosi",
+          "english": [
+            "really"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Totella",
+          "english": [
+            "really"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "tarkeä",
+          "english": [
+            "important"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Hauska",
+          "english": [
+            "funny"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Hyvä",
+          "english": [
+            "good"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Ahkera",
+          "english": [
+            "hardworking"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Pulassa",
+          "english": [
+            "in trouble"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Viisas",
+          "english": [
+            "wise"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Surullinen",
+          "english": [
+            "sad"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "onnellinen",
+          "english": [
+            "happy"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "iloinen",
+          "english": [
+            "happy"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Nuori",
+          "english": [
+            "young"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Usein",
+          "english": [
+            "common"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "harvoin",
+          "english": [
+            "rare"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "yleensä",
+          "english": [
+            "usually"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Melko",
+          "english": [
+            "certainly",
+            "totally true"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Outo",
+          "english": [
+            "strange"
+          ],
+          "dateIntroduced": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "name": "Family and Kids",
+      "dateIntroduced": "2026-03-08",
+      "words": [
+        {
+          "finnish": "Perhe",
+          "english": [
+            "family"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Lelu",
+          "english": [
+            "toy"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Valva",
+          "english": [
+            "baby"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Lapsi",
+          "english": [
+            "child"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Poika",
+          "english": [
+            "boy"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "tyttö",
+          "english": [
+            "girl"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Äiti",
+          "english": [
+            "mother"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "isä",
+          "english": [
+            "father"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "mummo",
+          "english": [
+            "grandmother"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "vaari",
+          "english": [
+            "grandfather"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Pari",
+          "english": [
+            "pair"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Naimisissa",
+          "english": [
+            "married"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Herra",
+          "english": [
+            "Mr."
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "rauva",
+          "english": [
+            "Ms."
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Mies",
+          "english": [
+            "man"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "nainen",
+          "english": [
+            "woman"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "nistä",
+          "english": [
+            "woman partitive"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Nimi",
+          "english": [
+            "name"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "etunimi",
+          "english": [
+            "first name"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Rakasta",
+          "english": [
+            "love"
+          ],
+          "dateIntroduced": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "name": "Basic Body",
+      "dateIntroduced": "2026-03-08",
+      "words": [
+        {
+          "finnish": "Minä",
+          "english": [
+            "I"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Olen",
+          "english": [
+            "am"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Minulla",
+          "english": [
+            "I have"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Minua",
+          "english": [
+            "Partitive I"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Se",
+          "english": [
+            "it"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Sinä",
+          "english": [
+            "you-single"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Olet",
+          "english": [
+            "are"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Sinulla",
+          "english": [
+            "you have"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Sinua",
+          "english": [
+            "you partitive"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Hän",
+          "english": [
+            "he/she"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "On",
+          "english": [
+            "sh/she are"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Hänellä",
+          "english": [
+            "has"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Häntä",
+          "english": [
+            "he/she partitive"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Me",
+          "english": [
+            "we"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Olemme",
+          "english": [
+            "we are"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Meillä",
+          "english": [
+            "we have"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Meitä",
+          "english": [
+            "we/us partitive"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Te",
+          "english": [
+            "plural you"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Olette",
+          "english": [
+            "plural you are"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Teillä",
+          "english": [
+            "plural you have"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "He",
+          "english": [
+            "they"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Ovat",
+          "english": [
+            "they are"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Heillä",
+          "english": [
+            "they have"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Heitä",
+          "english": [
+            "they partitive"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Ne",
+          "english": [
+            "those",
+            "they",
+            "it"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Nuo",
+          "english": [
+            "those"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Nämä",
+          "english": [
+            "these"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Tuo",
+          "english": [
+            "that"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Tämä",
+          "english": [
+            "this"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Heitä",
+          "english": [
+            "they",
+            "them"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Jotä",
+          "english": [
+            "whom"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Ketä",
+          "english": [
+            "whom",
+            "who"
+          ],
+          "dateIntroduced": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "name": "Animals",
+      "dateIntroduced": "2026-03-08",
+      "words": [
+        {
+          "finnish": "Eläin",
+          "english": [
+            "animal"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Käärne",
+          "english": [
+            "snake"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Kissa",
+          "english": [
+            "cat"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Koira",
+          "english": [
+            "dog"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Poni",
+          "english": [
+            "pony"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Undullatti",
+          "english": [
+            "parrot"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Pupu",
+          "english": [
+            "bunny"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Lintu",
+          "english": [
+            "bird"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Lehmä",
+          "english": [
+            "cow"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Sanoo",
+          "english": [
+            "it say"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Moo",
+          "english": [
+            "cow sound"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Pöllö",
+          "english": [
+            "owl"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Ilves",
+          "english": [
+            "lynx"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "ahma",
+          "english": [
+            "wolverine"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "ihahaa",
+          "english": [
+            "neigh"
+          ],
+          "dateIntroduced": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "name": "Numbers",
+      "dateIntroduced": "2026-03-08",
+      "words": [
+        {
+          "finnish": "Yksi",
+          "english": [
+            "one"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Kaksi",
+          "english": [
+            "two"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Colme",
+          "english": [
+            "three"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Neljä",
+          "english": [
+            "four"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Viisi",
+          "english": [
+            "five"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Kuusi",
+          "english": [
+            "six"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Seitsamän",
+          "english": [
+            "seven"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Kahdeksan",
+          "english": [
+            "eight"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Yhdeksän",
+          "english": [
+            "nine"
+          ],
+          "dateIntroduced": "2026-03-08"
+        },
+        {
+          "finnish": "Kymmenen",
+          "english": [
+            "ten"
+          ],
+          "dateIntroduced": "2026-03-08"
+        }
+      ]
+    }
+  ]
+}
