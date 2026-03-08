@@ -18,6 +18,12 @@
         <div class="stat-value">{{ stats.lastUpdated }}</div>
         <div class="stat-label">Updated</div>
       </div>
+      <div class="stat distribution">
+        <div class="distribution-row" v-for="(count, idx) in distArray" :key="idx">
+          <span class="dist-label">{{ idx < 4 ? idx : '4+' }}:</span>
+          <span class="dist-value">{{ count }}</span>
+        </div>
+      </div>
     </div>
 
     <div class="categories-section">
@@ -61,6 +67,12 @@ export default {
     categories: {
       type: Array,
       default: () => []
+    }
+  },
+  computed: {
+    distArray() {
+      const d = this.stats.distribution || {};
+      return [d[0] || 0, d[1] || 0, d[2] || 0, d[3] || 0, d[4] || 0];
     }
   },
   emits: ['start'],
@@ -115,14 +127,31 @@ export default {
 
 .stats-panel {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   gap: 16px;
   margin-bottom: 32px;
   padding: 20px;
   background: #f5f5f5;
   border-radius: 12px;
 }
-
+.stats-panel .distribution {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.stats-panel .distribution-row {
+  display: flex;
+  gap: 4px;
+  font-size: 0.85rem;
+}
+.stats-panel .dist-label {
+  font-weight: 600;
+}
+.stats-panel .dist-value {
+  color: #667eea;
+  font-weight: bold;
+}
 .stat {
   text-align: center;
 }

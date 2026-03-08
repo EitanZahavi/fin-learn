@@ -6,6 +6,11 @@
       <div class="progress-info">
         {{ currentWordIndex + 1 }} / {{ wordsInCategory.length }}
       </div>
+      <div class="cat-stats" v-if="stats">
+        <span v-for="(count, idx) in statsArray" :key="idx" class="cat-stat">
+          {{ idx < 4 ? idx : '4+' }}: {{ count }}
+        </span>
+      </div>
     </div>
 
     <div class="direction-control">
@@ -30,6 +35,9 @@
       <div class="word-display">
         {{ direction === 'f2e' ? currentWord.finnish : currentWord.english.join(' / ') }}
       </div>
+      <div v-if="showHint" class="hint">
+        Answer: {{ expectedAnswers.join(', ') }}
+      </div>
     </div>
 
     <div class="input-section">
@@ -50,6 +58,13 @@
         class="check-btn"
       >
         Check
+      </button>
+      <button
+        @click="tellAnswer"
+        :disabled="showResult"
+        class="tell-btn"
+      >
+        Tell
       </button>
     </div>
 
@@ -104,11 +119,26 @@ export default {
     const direction = ref('f2e');
     const userAnswer = ref('');
     const showResult = ref(false);
+    const showHint = ref(false);
     const isCorrect = ref(false);
     const currentWordIndex = ref(0);
     const inputRef = ref(null);
 
     const { updateWordProgress, getWordProgress } = useLocalStorage();
+
+    const stats = computed(() => {
+      const dist = {0:0,1:0,2:0,3:0,4:0};
+      props.category.words.forEach(word => {
+        const catName = props.category.name === 'All Words' ? word.category : props.category.name;
+        const key = `${catName}|${word.finnish}`;
+        const count = getWordProgress(catName, word.finnish).successCount || 0;
+        if (count >= 4) dist[4]++;
+        else dist[count]++;
+      });
+      return dist;
+    });
+
+    const statsArray = computed(() => [stats.value[0], stats.value[1], stats.value[2], stats.value[3], stats.value[4]]);
 
     // Get words sorted by lowest success count (weighted random selection)
     const wordsInCategory = computed(() => {
@@ -116,10 +146,13 @@ export default {
         return [];
       }
 
-      const withProgress = props.category.words.map(word => ({
-        ...word,
-        progress: getWordProgress(props.category.name, word.finnish)
-      }));
+      const withProgress = props.category.words.map(word => {
+        const catName = props.category.name === 'All Words' ? word.category : props.category.name;
+        return {
+          ...word,
+          progress: getWordProgress(catName, word.finnish)
+        };
+      });
 
       // Sort by successCount (lowest first) for priority learning
       return withProgress.sort((a, b) => 
@@ -146,6 +179,18 @@ export default {
 
     const normalizeAnswer = (answer) => {
       return answer.toLowerCase().trim();
+    };
+
+    const tellAnswer = () => {
+      // show correct answers briefly
+      showHint.value = true;
+      const combined = expectedAnswers.value.join(', ');
+      const prev = userAnswer.value;
+      userAnswer.value = combined;
+      setTimeout(() => {
+        showHint.value = false;
+        userAnswer.value = prev;
+      }, 1000);
     };
 
     const checkAnswer = () => {
@@ -180,12 +225,14 @@ export default {
       direction,
       userAnswer,
       showResult,
+      showHint,
       isCorrect,
       currentWordIndex,
       wordsInCategory,
       currentWord,
       expectedAnswers,
       checkAnswer,
+      tellAnswer,
       nextWord,
       goBack,
       inputRef
@@ -241,6 +288,19 @@ export default {
   text-align: right;
 }
 
+.cat-stats {
+  display: flex;
+  gap: 8px;
+  font-size: 0.85rem;
+  color: #444;
+}
+.cat-stat {
+  background: #f0f4ff;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-weight: 500;
+}
+
 .direction-control {
   display: flex;
   gap: 12px;
@@ -279,6 +339,12 @@ export default {
   margin-bottom: 16px;
 }
 
+.hint {
+  margin-top: 12px;
+  font-size: 0.9rem;
+  color: #ff6b6b;
+  font-weight: bold;
+}
 .word-display {
   font-size: 2.5rem;
   font-weight: bold;
@@ -310,7 +376,8 @@ export default {
   color: #888;
 }
 
-.check-btn {
+.check-btn,
+.tell-btn {
   padding: 16px 32px;
   background: #667eea;
   color: white;
@@ -321,12 +388,14 @@ export default {
   transition: all 0.2s;
 }
 
-.check-btn:hover:not(:disabled) {
+.check-btn:hover:not(:disabled),
+.tell-btn:hover:not(:disabled) {
   background: #764ba2;
   box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
 }
 
-.check-btn:disabled {
+.check-btn:disabled,
+.tell-btn:disabled {
   background: #ccc;
   cursor: not-allowed;
 }

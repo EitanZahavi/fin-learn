@@ -1,6 +1,6 @@
 <template>
   <div class="app">
-    <MainWindow v-if="!isStudying" @start="startStudy" :stats="stats" />
+    <MainWindow v-if="!isStudying" @start="startStudy" :stats="stats" :categories="categories" />
     <SpellingWindow v-else @back="stopStudy" :category="currentCategory" />
   </div>
 </template>
@@ -56,13 +56,18 @@ export default {
     const stats = computed(() => {
       let totalWords = 0;
       let learnedWords = 0;
+      const distribution = { 0:0, 1:0, 2:0, 3:0, 4:0 };
 
       wordsList.value?.categories?.forEach(category => {
         category.words.forEach(word => {
           totalWords++;
           const key = `${category.name}|${word.finnish}`;
-          if (progress.value[key]?.successCount >= 4) {
+          const count = progress.value[key]?.successCount || 0;
+          if (count >= 4) {
             learnedWords++;
+            distribution[4]++;
+          } else {
+            distribution[count]++;
           }
         });
       });
@@ -70,6 +75,7 @@ export default {
       return {
         totalWords,
         learnedWords,
+        distribution,
         lastUpdated: wordsList.value?.lastUpdated || 'N/A'
       };
     });
@@ -85,7 +91,19 @@ export default {
     });
 
     const startStudy = (selectedCategory) => {
-      currentCategory.value = selectedCategory;
+      if (selectedCategory.name === 'All Words') {
+        // merge all words into one virtual category
+        const allWords = [];
+        wordsList.value.categories.forEach(cat => {
+          allWords.push(...cat.words.map(w => ({ ...w, category: cat.name })));
+        });
+        currentCategory.value = {
+          name: 'All Words',
+          words: allWords
+        };
+      } else {
+        currentCategory.value = selectedCategory;
+      }
       isStudying.value = true;
     };
 
